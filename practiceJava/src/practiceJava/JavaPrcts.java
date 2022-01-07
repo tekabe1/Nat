@@ -29,8 +29,9 @@ public class JavaPrcts {
     	break;
     default:
     	dayname="Saturday";
-    	break;    }
-	System.out.println(" Today is " + dayname);
+    	break; 
+       }
+	System.out.println(" Today's day  is " + dayname);
     
     
 	}
